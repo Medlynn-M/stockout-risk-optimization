@@ -7,10 +7,10 @@ This repository contains the full project on predicting stockout risks in retail
 ## 📁 Files Included
 
 - **Project Report (PDF):** Detailed insights, methodology, data exploration, model development, and business recommendations.  
-  [`Capstone-Project-Group-2-Final-Report.pdf`](Capstone-Project-Group-2-Final-Report.pdf)
+  [`project_report.pdf`](Capstone-Project-Group-2-Final-Report.pdf)
 
 - **Jupyter Notebook:** Code for data preprocessing, feature engineering, model training, and evaluation.  
-  [`stockout_risk_model.ipynb`](stockout_risk_model.ipynb) *(Please rename accordingly)*
+  [`project_code.ipynb`](stockout_risk_model.ipynb) *(Please rename accordingly)*
 
 - **Dataset:** Retail sales and inventory data used for model training and analysis.  
   [`dataset.csv`](dataset.csv)
