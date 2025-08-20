@@ -67,6 +67,13 @@ The main highlights include:
 
 ---
 
+## 🙌 Author
+
+- **Medlynn M**
+
+_(This chatbot application was designed, developed, and maintained solely by Medlynn M as an extension of the capstone project.)_
+
+---
 ## 🙌 Contributors
 
 - Cheran K  
