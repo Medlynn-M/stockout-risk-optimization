@@ -21,7 +21,7 @@ This repository contains the full project on predicting stockout risks in retail
 - **Live Chatbot Link:** Hosted demo of the chatbot *(add link here if available)*
 
 - **Kaggle Dataset Link:** Original retail inventory dataset used in the project.  
-  [Retail Store Inventory Forecasting Dataset](https://www.kaggle.com/your-dataset-link)
+  [Retail Store Inventory Forecasting Dataset](https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset/data)
 
 ---
 
