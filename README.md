@@ -52,18 +52,18 @@ The main highlights include:
 ## 📋 How to Use
 
 1. Clone or download this repository.
-2. Review the project report (`Capstone-Project-Group-2-Final-Report.pdf`) for detailed insights.
-3. Open the Jupyter notebook (`stockout_risk_model.ipynb`) to explore the code and reproduce the analysis.
-4. Use the dataset (`dataset.csv`) or link to the Kaggle dataset to run your own experiments.
+2. Review the project report (`Stockout-Risk-Optimization-Project_Report.pdf`) for detailed insights.
+3. Open the Jupyter notebook (`Stockout-Risk-Optimization-Project_Code.ipynb`) to explore the code and reproduce the analysis.
+4. Use the dataset (`Dataset.csv`) or link to the Kaggle dataset to run your own experiments.
 5. Check out the chatbot repo and live demo for interactive inventory management assistance.
 
 ---
 
 ## 🔗 Related Links
 
-- [Chatbot Project Repository](https://github.com/yourusername/your-chatbot-repo)  
-- [Live Chatbot Demo](https://your-chatbot-live-url.com)  
-- [Kaggle Dataset](https://www.kaggle.com/your-dataset-link)
+- [Chatbot Project Repository](https://github.com/Medlynn-M/chatbot_app)  
+- [Live Chatbot Demo](https://chatbotapp-d7x3kzeewgz8ufpdou7g5z.streamlit.app/)  
+- [Kaggle Dataset](https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset/data)
 
 ---
 
