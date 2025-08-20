@@ -7,7 +7,7 @@ This repository contains the full project on predicting stockout risks in retail
 ## 📁 Files Included
 
 - **Project Report (PDF):** Detailed insights, methodology, data exploration, model development, and business recommendations.  
-  [`Stockout-Risk-Optimization-Project_Report.pdf`](Stockout-Risk-Optimization-Project_Report.pdf)
+  [`Stockout-Risk-Optimization-Project_Report`](Stockout-Risk-Optimization-Project_Report.pdf)
 
 - **Jupyter Notebook:** Code for data preprocessing, feature engineering, model training, and evaluation.  
   [`Stockout-Risk-Optimization-Project_Code.ipynb`](Stockout-Risk-Optimization-Project_Code.ipynb)
