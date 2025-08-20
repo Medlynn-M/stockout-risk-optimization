@@ -7,13 +7,13 @@ This repository contains the full project on predicting stockout risks in retail
 ## 📁 Files Included
 
 - **Project Report (PDF):** Detailed insights, methodology, data exploration, model development, and business recommendations.  
-  [`Stockout-Risk-Optimization-Project_Report`](Stockout-Risk-Optimization-Project_Report.pdf)
+  [`Project Report`](Stockout-Risk-Optimization-Project_Report.pdf)
 
 - **Jupyter Notebook:** Code for data preprocessing, feature engineering, model training, and evaluation.  
-  [`Stockout-Risk-Optimization-Project_Code.ipynb`](Stockout-Risk-Optimization-Project_Code.ipynb)
+  [`Jupyter Notebook File`](Stockout-Risk-Optimization-Project_Code.ipynb)
 
 - **Dataset:** Retail sales and inventory data used for model training and analysis.  
-  [`Dataset.csv`](Dataset.csv)
+  [`Dataset`](Dataset.csv)
 
 - **Chatbot Repo:** Interactive chatbot built as part of this project to support inventory decision-making.  
   [Chatbot GitHub Repository](https://github.com/yourusername/your-chatbot-repo)
