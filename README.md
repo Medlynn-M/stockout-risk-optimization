@@ -19,7 +19,6 @@ This repository contains the full project on predicting stockout risks in retail
   [Chatbot GitHub Repository](https://github.com/yourusername/your-chatbot-repo)
 
 - **Live Chatbot Link:** Hosted demo of the chatbot.
-  
   [Chatbot Link](https://chatbotapp-d7x3kzeewgz8ufpdou7g5z.streamlit.app/)
 
 - **Kaggle Dataset Link:** Original retail inventory dataset used in the project.  
